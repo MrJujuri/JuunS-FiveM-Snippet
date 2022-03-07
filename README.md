@@ -6,7 +6,7 @@ This is my snippet collections
 ## Author
 - JuunS a.k.a ( [Juniardy Setiowidayoga](https://www.linkedin.com/in/juuns99/) )
 
-## Snippet Reference
+## Snippet References
 - Goosebumps
 - Irham
 - MasBagus
