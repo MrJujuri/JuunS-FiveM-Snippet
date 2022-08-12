@@ -15,3 +15,4 @@ This is my snippet collections
 
 ## Discord
 - JuunS#1159 (JuunS)
+- MrJujuri#8654 (!DevJujuri)
